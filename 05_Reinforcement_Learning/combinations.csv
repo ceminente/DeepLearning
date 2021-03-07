@@ -1,0 +1,9 @@
+softmax,sarsa,epsilon
+True,True,lin
+True,True,exp
+True,False,lin
+True,False,exp
+False,True,lin
+False,True,exp
+False,False,lin
+False,False,exp

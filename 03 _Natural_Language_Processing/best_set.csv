@@ -1,0 +1,2 @@
+hidden_units,layers,optimizer,val_loss
+256,2,torch.optim.Adam,4.866013

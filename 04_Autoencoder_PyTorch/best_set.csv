@@ -1,0 +1,2 @@
+encoded_space_dim,num_epochs,patience,nfolds,dropout,lr,weight_decay,val_loss
+4,45,6,3,0.14913183195235394,0.0012080047741666528,8.790837958816358e-05,0.03472601

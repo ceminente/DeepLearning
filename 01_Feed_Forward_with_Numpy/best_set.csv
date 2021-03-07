@@ -1,0 +1,2 @@
+Ni,Nh1,Nh2,No,act_f,n_epochs,batchsize,lr,decay,lr_final,reg_type,alpha_reg,patience,train_loss,val_loss
+1,83,83,1,ReLU,5000,1,0.0046494778300641935,True,0.0005,L1,0.005045111260777118,400,1.2964932765172998,1.1758885598832651

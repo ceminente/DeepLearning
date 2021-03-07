@@ -1,0 +1,2 @@
+Ni,Nh1,Nh2,No,act_func,dropout,num_epochs,batchsize,lr,weight_decay,patience,nfolds,val_loss
+784,571,444,10,LeakyReLU(negative_slope=0.01),0.32008830844952946,150,500,0.0009674636116797377,0.00033668505864723635,15,3,0.06939533
